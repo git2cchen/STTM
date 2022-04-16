@@ -2,7 +2,7 @@
 A Support Tensor Train Machines (STTM) [1] for Matlab&copy;/Octave&copy;
 --------------------------------------------------------------------------------------------------
 
-This package contains Matlab/Octave code for the methods mentioned in Support Tensor Train Machines, namely STTM. The demo code demonstrates a CIFAR-10 bianry classification example. The CIFAR-10 samples and the required toolbox are provided and can be downloaded at https://drive.google.com/file/d/1zecyTldlvOowMz9QyzkIQ2FZO9n57Hck/view?usp=sharing.
+This package contains Matlab/Octave code for the methods mentioned in Support Tensor Train Machines, namely STTM. The demo code demonstrates a CIFAR-10 bianry classification example. The CIFAR-10 samples and the required toolbox are provided and can be downloaded at [STTM requirements](https://drive.google.com/file/d/1zecyTldlvOowMz9QyzkIQ2FZO9n57Hck/view?usp=sharing) 
 
 
 1. Requirements
